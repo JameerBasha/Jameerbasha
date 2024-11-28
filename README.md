@@ -2,7 +2,6 @@
 
 ### 📈 My GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=jameerbasha&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameerbasha&layout=compact&theme=radical)  
 
 <!--
